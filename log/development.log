@@ -1,0 +1,77 @@
+I, [2023-02-09T13:07:07.482791 #25179]  INFO -- : 
+@@@                                             @@@@@  @@@
+@@@                                            @@@     @@@
+@@@  @@@    @@@@@@@@@   @@@ @@@   @@@@@@@@@  @@@@@@@@  @@@  @@@@   @@@@@@@@@
+@@@@@@     @@@    @@@   @@@@@    @@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@@@@@    @@@    @@@   @@@     @@@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@  @@@@  @@@@@@@@@@   @@@      @@@@@@@@@@    @@@     @@@  @@@@   @@@@@@@@@@
+
+
+I, [2023-02-09T13:07:07.482873 #25179]  INFO -- : [0;31mUpgrade to Karafka Pro for more features and support: https://karafka.io[0m
+I, [2023-02-09T13:07:07.483055 #25179]  INFO -- : Stopping Karafka server
+I, [2023-02-09T13:07:07.483092 #25179]  INFO -- : Stopped Karafka server
+I, [2023-02-09T13:07:07.483197 #25179]  INFO -- : [9bf308b9e037] Closing producer took 0.019999980926513672 ms
+I, [2023-02-09T13:07:53.670859 #25248]  INFO -- : 
+@@@                                             @@@@@  @@@
+@@@                                            @@@     @@@
+@@@  @@@    @@@@@@@@@   @@@ @@@   @@@@@@@@@  @@@@@@@@  @@@  @@@@   @@@@@@@@@
+@@@@@@     @@@    @@@   @@@@@    @@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@@@@@    @@@    @@@   @@@     @@@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@  @@@@  @@@@@@@@@@   @@@      @@@@@@@@@@    @@@     @@@  @@@@   @@@@@@@@@@
+
+
+I, [2023-02-09T13:07:53.670917 #25248]  INFO -- : [0;31mUpgrade to Karafka Pro for more features and support: https://karafka.io[0m
+I, [2023-02-09T13:07:53.671042 #25248]  INFO -- : Stopping Karafka server
+I, [2023-02-09T13:07:53.671069 #25248]  INFO -- : Stopped Karafka server
+I, [2023-02-09T13:07:53.671156 #25248]  INFO -- : [b0f4fd6f2e89] Closing producer took 0.0140000581741333 ms
+I, [2023-02-09T13:10:32.510460 #25477]  INFO -- : 
+@@@                                             @@@@@  @@@
+@@@                                            @@@     @@@
+@@@  @@@    @@@@@@@@@   @@@ @@@   @@@@@@@@@  @@@@@@@@  @@@  @@@@   @@@@@@@@@
+@@@@@@     @@@    @@@   @@@@@    @@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@@@@@    @@@    @@@   @@@     @@@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@  @@@@  @@@@@@@@@@   @@@      @@@@@@@@@@    @@@     @@@  @@@@   @@@@@@@@@@
+
+
+I, [2023-02-09T13:10:32.510513 #25477]  INFO -- : [0;31mUpgrade to Karafka Pro for more features and support: https://karafka.io[0m
+I, [2023-02-09T13:10:32.510680 #25477]  INFO -- : Running in ruby 2.7.5p203 (2021-11-24 revision f69aeb8314) [x86_64-darwin19]
+I, [2023-02-09T13:10:32.510694 #25477]  INFO -- : Running Karafka 2.0.30 server
+I, [2023-02-09T13:10:32.510703 #25477]  INFO -- : See LICENSE and the LGPL-3.0 for licensing details
+I, [2023-02-09T13:10:32.920758 #25477]  INFO -- : Received SIGTERM system signal
+I, [2023-02-09T13:10:32.920837 #25477]  INFO -- : Stopping Karafka server
+I, [2023-02-09T13:10:33.749916 #25477]  INFO -- : Stopped Karafka server
+I, [2023-02-09T13:10:33.750024 #25477]  INFO -- : [40dcc0358707] Closing producer took 0.020999908447265625 ms
+I, [2023-02-09T13:11:42.943595 #25584]  INFO -- : 
+@@@                                             @@@@@  @@@
+@@@                                            @@@     @@@
+@@@  @@@    @@@@@@@@@   @@@ @@@   @@@@@@@@@  @@@@@@@@  @@@  @@@@   @@@@@@@@@
+@@@@@@     @@@    @@@   @@@@@    @@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@@@@@    @@@    @@@   @@@     @@@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@  @@@@  @@@@@@@@@@   @@@      @@@@@@@@@@    @@@     @@@  @@@@   @@@@@@@@@@
+
+
+I, [2023-02-09T13:11:42.943657 #25584]  INFO -- : [0;31mUpgrade to Karafka Pro for more features and support: https://karafka.io[0m
+I, [2023-02-09T13:11:42.943855 #25584]  INFO -- : Running in ruby 2.7.5p203 (2021-11-24 revision f69aeb8314) [x86_64-darwin19]
+I, [2023-02-09T13:11:42.943872 #25584]  INFO -- : Running Karafka 2.0.30 server
+I, [2023-02-09T13:11:42.943881 #25584]  INFO -- : See LICENSE and the LGPL-3.0 for licensing details
+I, [2023-02-09T13:11:43.690106 #25584]  INFO -- : Received SIGTERM system signal
+I, [2023-02-09T13:11:43.690217 #25584]  INFO -- : Stopping Karafka server
+I, [2023-02-09T13:11:44.209967 #25584]  INFO -- : Stopped Karafka server
+I, [2023-02-09T13:11:44.210147 #25584]  INFO -- : [a430f97ae680] Closing producer took 0.02199995517730713 ms
+I, [2023-02-09T13:12:54.468396 #25679]  INFO -- : 
+@@@                                             @@@@@  @@@
+@@@                                            @@@     @@@
+@@@  @@@    @@@@@@@@@   @@@ @@@   @@@@@@@@@  @@@@@@@@  @@@  @@@@   @@@@@@@@@
+@@@@@@     @@@    @@@   @@@@@    @@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@@@@@    @@@    @@@   @@@     @@@@    @@@    @@@     @@@@@@@    @@@    @@@
+@@@  @@@@  @@@@@@@@@@   @@@      @@@@@@@@@@    @@@     @@@  @@@@   @@@@@@@@@@
+
+
+I, [2023-02-09T13:12:54.468455 #25679]  INFO -- : [0;31mUpgrade to Karafka Pro for more features and support: https://karafka.io[0m
+I, [2023-02-09T13:12:54.468640 #25679]  INFO -- : Running in ruby 2.7.5p203 (2021-11-24 revision f69aeb8314) [x86_64-darwin19]
+I, [2023-02-09T13:12:54.468655 #25679]  INFO -- : Running Karafka 2.0.30 server
+I, [2023-02-09T13:12:54.468665 #25679]  INFO -- : See LICENSE and the LGPL-3.0 for licensing details
+I, [2023-02-09T13:13:49.230188 #25679]  INFO -- : Received SIGINT system signal
+I, [2023-02-09T13:13:49.230266 #25679]  INFO -- : Stopping Karafka server
+I, [2023-02-09T13:13:50.066726 #25679]  INFO -- : Stopped Karafka server
+I, [2023-02-09T13:13:50.066803 #25679]  INFO -- : [5bc09f2f8ce5] Closing producer took 0.0140000581741333 ms
